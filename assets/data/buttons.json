@@ -1,0 +1,23 @@
+[
+  {
+    "btnAsset": "thugButton",
+    "btnCost": 75,
+    "unitAsset": "thug",
+    "health": 100,
+    "attack": 20,
+    "isMissile": true
+  },
+  {
+    "btnAsset": "keg",
+    "btnCost": 100,
+    "unitAsset": "keg",
+    "health": 50,
+    "attack": 1,
+    "isProducingBeer": true
+  },
+  {
+    "btnAsset": "repair",
+    "btnCost": 500,
+    "isRepair": true
+  }
+]

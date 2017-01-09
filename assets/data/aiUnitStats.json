@@ -1,0 +1,17 @@
+
+{
+    "hooligan":[
+        {
+            "asset": "hooligan",
+            "health": 75,
+            "attack":15,
+            "speed":-50
+        }],
+    "bruiser":[
+        {
+            "asset": "bruiser",
+            "health": 200,
+            "attack":25,
+            "speed":-18
+        }]
+}

@@ -1,0 +1,116 @@
+{
+    "nextLevel":"level2",
+    "units":[
+    {
+        "time": 1,
+        "asset": "hooligan",
+        "health": 100,
+        "attack":15,
+        "defence":20,
+        "animationFrames":[],
+        "isMissile":false,
+        "isProducer":false,
+        "velocity":-20
+    },
+    {
+        "time": 1.5,
+        "asset": "hooligan",
+        "health": 70,
+        "attack":15,
+        "defence":20,
+        "animationFrames":[],
+        "isMissile":false,
+        "isProducer":false,
+        "velocity":-20
+    },
+    {
+        "time": 2,
+        "asset": "hooligan",
+        "health": 70,
+        "attack":15,
+        "defence":20,
+        "animationFrames":[],
+        "isMissile":false,
+        "isProducer":false,
+        "velocity":-20
+    },
+    {
+        "time": 2.1,
+        "asset": "hooligan",
+        "health": 70,
+        "attack":15,
+        "defence":20,
+        "animationFrames":[],
+        "isMissile":false,
+        "isProducer":false,
+        "velocity":-20
+    },
+    {
+        "time": 2.7,
+        "asset": "hooligan",
+        "health": 70,
+        "attack":15,
+        "defence":20,
+        "animationFrames":[],
+        "isMissile":false,
+        "isProducer":false,
+        "velocity":-25
+    },
+    {
+        "time": 3.2,
+        "asset": "hooligan",
+        "health": 70,
+        "attack":15,
+        "defence":20,
+        "animationFrames":[],
+        "isMissile":false,
+        "isProducer":false,
+        "velocity":-18
+    },
+    {
+        "time": 3.8,
+        "asset": "hooligan",
+        "health": 70,
+        "attack":15,
+        "defence":20,
+        "animationFrames":[],
+        "isMissile":false,
+        "isProducer":false,
+        "velocity":-20
+    },
+    {
+        "time": 4.5,
+        "asset": "hooligan",
+        "health": 70,
+        "attack":15,
+        "defence":20,
+        "animationFrames":[],
+        "isMissile":false,
+        "isProducer":false,
+        "velocity":-30
+    },
+    {
+        "time": 4.5,
+        "asset": "hooligan",
+        "health": 70,
+        "attack":15,
+        "defence":20,
+        "animationFrames":[],
+        "isMissile":false,
+        "isProducer":false,
+        "velocity":-30
+    },
+    {
+        "time": 4.6,
+        "asset": "bruiser",
+        "health": 200,
+        "attack":10,
+        "defence":30,
+        "animationFrames":[],
+        "isMissile":false,
+        "isProducer":false,
+        "velocity":-20
+    }
+    ]
+}
+
